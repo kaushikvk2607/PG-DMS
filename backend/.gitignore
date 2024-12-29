@@ -1,0 +1,10 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# python virtual env
+/myenv
+**/**/__pycache__/
+
+backend/**/__pycache__/
+*.sqlite
+*.sqlite3
+db.sqlite3
